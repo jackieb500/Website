@@ -1,0 +1,32 @@
+header {
+	background-color: ;
+	color: white;
+	font-size: 50px;
+}
+head {
+	text-align: center;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+body {
+	text-align: center;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	background-color: white;
+}
+nav {
+	margin: 50px;
+}
+nav a {
+	padding: 2px 30px 10px 30px;
+	text-decoration: none;
+	color: #fff;
+	background: linear-gradient(to right, #f6f1d3, #648880, 85%, #293f50);
+
+}
+nav a:hover {
+	background-color: purple;
+}
+footer {
+	padding: 20px;
+	font-size: 30px;
+	font-style: italic;
+}
